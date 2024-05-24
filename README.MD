@@ -34,7 +34,7 @@
 
 ### 2. Quanto à segurança:
 - Implementação de autenticação OAuth para garantir que apenas usuários autorizados possam acessar recursos sensíveis.
-- Criptografia de dados sensíveis para proteger informações confidenciais(Ex JWT).
+- Criptografia de dados sensíveis para proteger informações confidenciais.
 - Adoção de práticas de desenvolvimento seguro para prevenir vulnerabilidades comuns.
 
 ### 3. Quanto à escalabilidade:
