@@ -57,8 +57,5 @@
 | Adicionar Front (Angular 17)| Luann Firme, Gabriel Teles         | 8 horas        | 8 horas         |
 
 
-## Instruções de Instalação
-1. Clone este repositório.
-   ```bash
-   git clone [https://github.com/AlanPrates/Prova_Final.NET.git]
+
 
